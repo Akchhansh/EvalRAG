@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is VitoVision?",
+        "expected_answer": "VitoVision is a contactless vital sign estimation project using rPPG."
+    },
+    {
+        "question": "Which technologies were used in VitoVision?",
+        "expected_answer": "Python, PyTorch, OpenCV, Deep Learning and Computer Vision."
+    },
+    {
+        "question": "What is EvalRAG?",
+        "expected_answer": "There is no information available in the provided documents."
+    }
+]
