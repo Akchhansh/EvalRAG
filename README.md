@@ -1,3 +1,14 @@
+---
+title: EvalRAG API
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.26.0
+app_file: app.py
+pinned: false
+---
+
 # 🚀 EvalRAG
 
 > A Production-Ready Retrieval-Augmented Generation (RAG) System with an Integrated Evaluation Pipeline.
